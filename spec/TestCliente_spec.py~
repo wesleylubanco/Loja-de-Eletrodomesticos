@@ -1,4 +1,3 @@
-#coding:utf-8
 from should_dsl import should
 import unittest
 import specloud
